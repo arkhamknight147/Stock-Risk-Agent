@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+output_risk_report.html
+output_risk_report_state.json
+.env
+.env.local
